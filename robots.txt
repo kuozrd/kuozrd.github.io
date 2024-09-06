@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kuozrd.github.io/aqk/sitemap.aqk.gz
